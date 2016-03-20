@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <g2m>
+            <Filename>ResurrectionRemix-M-v5.6.5-20160318-g2m.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&flid=52470</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+			<XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit ResurrectionRemix thread for g2m">http://forum.xda-developers.com/g2-mini/development/rom-resurrection-remix-v5-6-5-t3339903</XDAUrl>
+	</g2m>
+    </Stable>
+</SlimOTA>
