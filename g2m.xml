@@ -20,5 +20,24 @@
                 title="XDA Thread"
                 description="Visit XDA thread about this rom">http://forum.xda-developers.com/g2-mini/development/rom-resurrection-remix-v5-6-5-t3339903</XDAUrl>
 	</g2m>
+	<rio>
+            <Filename>ResurrectionRemix-M-v5.6.9-20160604-rio.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from here">https://basketbuild.com/devs/resurrectionremix/g2m</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="This is an experimental build."</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="This is an experimental build."</SlimGappsUrl>
+	    <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="This is an experimental build."</XDAUrl>
+	</rio>
     </Stable>
 </SlimOTA>
