@@ -19,6 +19,10 @@
                 id="xda"
                 title="XDA Thread"
                 description="Visit XDA thread about this rom">http://forum.xda-developers.com/g2-mini/development/rom-resurrection-remix-v5-6-5-t3339903</XDAUrl>
+            <TwrpUrl
+                id="test"
+                title="test"
+                description="Download latest TWRP Recovery for Agler">https://dl.twrp.me/angler</TwrpUrl>
 	</g2m>
     </Stable>
 </SlimOTA>
