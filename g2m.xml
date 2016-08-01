@@ -20,5 +20,24 @@
                 title="XDA Thread"
                 description="Visit the XDA thread!">http://forum.xda-developers.com/g2-mini/development/rom-resurrection-remix-v5-6-5-t3339903</XDAUrl>
 	</g2m>
+	<jag3gds>
+            <Filename>ResurrectionRemix-M-v5.7.2-20160731-g2m.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from basketbuild">https://basketbuild.com/devs/resurrectionremix/jag3gds</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download the latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	    <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit the XDA thread!">http://forum.xda-developers.com/lg-g3/development/rom-resurrection-remix-5-6-3-t3318485</XDAUrl>
+	</jag3gds>
     </Stable>
 </SlimOTA>
