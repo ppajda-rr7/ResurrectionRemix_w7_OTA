@@ -1,1 +1,1 @@
-# ResurrectionRemix-g2m-OTA
+# ResurrectionRemix-w7-OTA
