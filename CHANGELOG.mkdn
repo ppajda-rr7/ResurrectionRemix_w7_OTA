@@ -1,0 +1,341 @@
+
+ ▼ Resurrection Remix Nougat Ver 5.8.4 Changelog
+
+
+ ▼ 09/11/2017
+
+
+ ▪ project packages/apps/TvSettings/
+ ▪ acace0c Use new updater activity name for update button
+
+ ▼ 09/10/2017
+
+
+ ▪ project hardware/qcom/audio-caf/msm8916/
+ ▪ 76a0188 Merge remote-tracking branch 'caf/LA.BR.1.2.9_rb1.24' into cm-14.1-caf-8916
+
+ ▪ project hardware/qcom/audio-caf/msm8960/
+ ▪ 9d1af8a aenc-aac: bounds checking
+
+ ▼ 09/09/2017
+
+
+ ▪ project vendor/cm/
+ ▪ 78774cb Update Magisk to 14.0 and MagiskMansager to 5.3.0 (#99)
+
+ ▼ 09/08/2017
+
+
+ ▪ project frameworks/base/
+ ▪ fd3a9e3 Merge pull request #208 from BernardoBas/nougat
+ ▪ cf0fd01 Fix not to disable the GPS prematurely
+
+ ▪ project hardware/qcom/audio-caf/msm8994/
+ ▪ cda376e Merge remote-tracking branch 'caf/LA.BF64.1.2.3_rb1.16' into cm-14.1-caf-8994
+
+ ▪ project hardware/qcom/display-caf/msm8994/
+ ▪ 39bc982 Merge remote-tracking branch 'caf/LA.BF64.1.2.3_rb1.16' into cm-14.1-caf-8994
+
+ ▪ project hardware/qcom/media-caf/msm8994/
+ ▪ 5142d75 Merge remote-tracking branch 'caf/LA.BF64.1.2.3_rb1.16' into cm-14.1-caf-8994
+
+ ▪ project packages/apps/Settings/
+ ▪ 924a9c6 Add J5H to the list (#864)
+
+ ▼ 09/07/2017
+
+
+ ▪ project packages/apps/Settings/
+ ▪ 2683f89 I've changed my name (#862)
+
+ ▼ 09/06/2017
+
+
+ ▪ project device/lge/msm8226-common/
+ ▪ e7d073c Grant netmgrd proper unix perms
+
+ ▼ 09/04/2017
+
+
+ ▪ project packages/apps/SetupWizard/
+ ▪ f7d9926 SetupWizard: Fix the accessibility services gesture
+
+ ▼ 09/03/2017
+
+
+ ▪ project packages/apps/Snap/
+ ▪ fef825d Snap: fix highspeed and high-framerate video recording
+
+ ▼ 09/02/2017
+
+
+ ▪ project packages/apps/SetupWizard/
+ ▪ 77ef790 SetupWizard: Remove Themes related code
+
+ ▼ 09/01/2017
+
+
+ ▪ project device/lge/msm8226-common/
+ ▪ 337b0f6 overlay: Enable data for MMS
+
+ ▪ project hardware/qcom/audio-caf/msm8994/
+ ▪ 5e36f42 Merge AU_LINUX_ANDROID_LA.BF64.1.2.3_RB1.07.01.02.258.030 on remote branch
+
+ ▼ 08/31/2017
+
+
+ ▪ project packages/apps/Settings/
+ ▪ 84d2690 Asus Zenfone 3 (Z012D) Maintainer (#859)
+
+ ▪ project packages/resources/devicesettings/
+ ▪ ff0aa81 Add strings for devices' custom gesture handlers
+
+ ▼ 08/30/2017
+
+
+ ▪ project hardware/qcom/media-caf/msm8994/
+ ▪ 0ac114a mm-video-v4l2: venc: Advertise correct output-size for meta-mode
+
+ ▪ project packages/apps/Settings/
+ ▪ 67faee0 Piccolo Maintainer (#858)
+ ▪ 7b502c0 D851 Maintainer (#855)
+
+ ▼ 08/29/2017
+
+
+ ▪ project packages/apps/Jelly/
+ ▪ 5f4c6b0 Jelly: Add elevation effect to searchBar
+
+ ▪ project packages/apps/Settings/
+ ▪ 41bd796 Update maintainer for Galaxy Note 3 Qcom (#854)
+
+ ▪ project vendor/lge/
+ ▪ 0ed5c8f v4xx: Move thermal blobs to devices
+
+ ▼ 08/28/2017
+
+
+ ▪ project vendor/lge/
+ ▪ 17985d5 g2-common: Use widevine from kipper TOS125B
+
+ ▼ 08/27/2017
+
+
+ ▪ project frameworks/base/
+
+ ▪ project packages/apps/DUI/
+
+ ▪ project packages/apps/Jelly/
+ ▪ 8e71ae9 Jelly: Remove the SwipeRefreshLayout
+
+ ▪ project packages/apps/OmniSwitch/
+
+ ▪ project packages/apps/Settings/
+
+ ▪ project packages/apps/Snap/
+ ▪ 2cf2582 Snap: fix ArrayIndexOutOfBoundsException on setUpCameraOutputs
+
+ ▪ project prebuilts/gcc/linux-x86/arm/arm-eabi-4.9/
+ ▪ 02b733c Initial commit
+
+ ▪ project prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/
+ ▪ 51a9b20 Initial commit
+
+ ▼ 08/26/2017
+
+
+ ▪ project packages/apps/Eleven/
+ ▪ 943d43e Eleven: Fix restoring user settings
+
+ ▪ project packages/services/Telephony/
+ ▪ 6e6fe97 Allow to ignore presentation indicator of outgoing calls [3/3]
+
+ ▼ 08/25/2017
+
+
+ ▪ project frameworks/base/
+ ▪ 756f3e0 Allow to ignore presentation indicator of outgoing calls [1/3]
+ ▪ 89fc8fd Use SystemClock.elapsedRealtime() to calc TTFF
+ ▪ d1cb955 Tweak Privacy Guard dialog layout
+ ▪ 20d80eb PowerManager: Allow to distinguish different keypresses
+ ▪ 8b63de6 Add @hide annotation to the privacy guard ops set
+ ▪ 4193207 Change visibility of the Privacy Guard ops set
+ ▪ 6ab7b90 Camera: ignore torch status update for aux or compsite camera
+ ▪ be1d6ba base: audioservice: Set BT_SCO status
+
+ ▪ project frameworks/native/
+ ▪ 9cb6681 Merge remote-tracking branch 'remotes/laos/cm-14.1' into HEAD
+
+ ▪ project frameworks/opt/telephony/
+ ▪ b231815 Allow to ignore presentation indicator of outgoing calls [2/3]
+
+ ▪ project packages/apps/UnifiedEmail/
+ ▪ 2dd00df Email: Fix led notification settings
+
+ ▪ project vendor/lge/
+ ▪ 50a3b8c v4xx-common: Update libwvm to _ZN7android16MediaBufferGroupC1Ej
+ ▪ 3b6f969 v4xx-common: Hexedit libqc-opt to support _56
+
+ ▼ 08/24/2017
+
+
+ ▪ project hardware/qcom/display-caf/msm8994/
+ ▪ dfb291d libmemtrack: Fix fd leak in kgsl function
+
+ ▪ project packages/apps/Settings/
+ ▪ 3c8b4d4 Responsible arrangement for the Seed device.  (#851)
+
+ ▼ 08/23/2017
+
+
+ ▪ project hardware/qcom/media-caf/msm8994/
+ ▪ 931b371 Merge "mm-video-v4l2: Fix input buffer release in deinit"
+
+ ▼ 08/21/2017
+
+
+ ▪ project hardware/qcom/audio-caf/msm8998/
+ ▪ eba183e Merge tag 'LA.UM.5.7.r1-10500-8x98.0' into cm-14.1-caf-8998
+
+ ▪ project packages/apps/Jelly/
+ ▪ 2a6aa75 Fix NPE.
+
+ ▼ 08/20/2017
+
+
+ ▪ project frameworks/base/
+
+ ▪ project hardware/ril-caf/
+ ▪ d8290dd ril: Allow targets to disable Clang
+
+ ▪ project packages/apps/AudioFX/
+
+ ▪ project packages/apps/Eleven/
+
+ ▪ project packages/apps/Jelly/
+
+ ▪ project packages/apps/OmniSwitch/
+
+ ▪ project packages/apps/Settings/
+ ▪ 14513f5 Update s7 edge maintainer
+ ▪ 3bb44bb Transfer maintainership of Galaxy S7 series to schwabe93
+
+ ▪ project packages/apps/SetupWizard/
+
+ ▪ project packages/apps/Snap/
+
+ ▪ project packages/apps/Terminal/
+
+ ▪ project packages/apps/Trebuchet/
+
+ ▪ project packages/apps/UnifiedEmail/
+
+ ▪ project packages/resources/devicesettings/
+
+ ▼ 08/19/2017
+
+
+ ▪ project build/
+ ▪ 6a081e1 envsetup: stop jack server once build completed
+
+ ▪ project device/qcom/sepolicy/
+ ▪ 96615af msm8974: Do not grant DAC override permission to netmgrd
+ ▪ c631819 Use set_prop() macro for property sets
+
+ ▪ project frameworks/native/
+ ▪ afbd1c1 InputDispatcher: On keypress, deliver keycode to pokeUserActivity
+
+ ▪ project hardware/qcom/audio-caf/msm8916/
+ ▪ 61a2343 Merge AU_LINUX_ANDROID_LA.BR.1.2.9_RB1.07.01.02.254.035 on remote branch
+
+ ▪ project packages/apps/CMParts/
+ ▪ f763660 CMParts: Add strings for DCI-P3 color profile
+
+ ▪ project packages/apps/Settings/
+ ▪ 4dccd0d Changing Galaxy s7 edge Maintainer (#846)
+
+ ▼ 08/18/2017
+
+
+ ▪ project frameworks/native/
+ ▪ 766d692 PowerManager.h: Define USER_ACTIVITY_FLAG values
+ ▪ c1f311b native: Increase ART heap limit to 192MB for 1024MB RAM devices
+
+ ▪ project vendor/lge/
+ ▪ 5d2909b rs988: Update bluetooth firmware name
+ ▪ 9e9d1d6 rs988: Add initial blobs and add to build guard
+
+ ▼ 08/17/2017
+
+
+ ▪ project hardware/cyanogen/
+ ▪ e2f8e45 livedisplay: SDM: Add support for DCI-P3 display mode
+
+ ▪ project hardware/qcom/wlan-caf/
+ ▪ 93c8631 WifiHAL: Free the stats received so far if requestResponse() fails
+ ▪ eabd5a6 Wifi-HAL: Move llstats freeing to a common API
+
+ ▪ project packages/apps/Settings/
+ ▪ aca49e9 Add Co Maintainer for Jalebi (#845)
+
+ ▼ 08/16/2017
+
+
+ ▪ project hardware/qcom/bt-caf/
+ ▪ 328d8af Revert "Merge tag 'LA.UM.5.5.r1-04900-8x96.0' into HEAD"
+
+ ▪ project packages/apps/Jelly/
+ ▪ 21b9d05 Jelly: Check for onChanged in history data observer
+
+ ▪ project packages/apps/Settings/
+ ▪ 115a541 added helium (#843)
+
+ ▼ 08/15/2017
+
+
+ ▪ project packages/apps/Jelly/
+ ▪ 1ea2382 Jelly: Improve URL bar behavior
+
+ ▪ project packages/apps/Settings/
+ ▪ 7d771ca Fix i9500 maintainer dont show (#842)
+ ▪ df1f26e Fix i9500 maintainer dont show (#840)
+
+ ▼ 08/14/2017
+
+
+ ▪ project frameworks/base/
+
+ ▪ project packages/apps/DUI/
+
+ ▪ project packages/apps/OmniSwitch/
+
+ ▪ project packages/apps/Settings/
+ ▪ 72deb12 Fix land device position (#839)
+ ▪ f6cc7a7 Add Redmi 4X device maintainer (#838)
+
+ ▪ project packages/services/OmniJaws/
+
+ ▪ project vendor/lge/
+ ▪ 332e3fa v521: Update blobs from v521 v20i
+ ▪ fcd6a8b us997: Update adreno firmware from v14a
+ ▪ 6d4709e g5: Update camera and fingerprint from h830 v20k
+ ▪ 0ca4373 h870: Update adreno firmware from v10t
+ ▪ fa95a57 h830: Update adreno firmware from v20k
+
+ ▼ 08/13/2017
+
+
+ ▪ project frameworks/base/
+ ▪ 63df1f1 PowerManagerService: fix HW button illumination timeout
+ ▪ 87a1af4 SystemUI: Fix battery meter view blacklist handling
+
+ ▪ project hardware/broadcom/wlan/
+ ▪ 5ef057d Merge tag 'android-7.1.2_r28' into cm-14.1
+
+ ▪ project packages/apps/Snap/
+ ▪ 70dbc05 Snap: add missing null check on isCamera2Supported
+
+ ▪ project vendor/lge/
+ ▪ c9aebdb g6/msm8996: Update blobs from us997 v14a
+ ▪ b1b8729 us997: Update bluetooth firmware from us997 v13a
+
